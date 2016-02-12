@@ -14,6 +14,7 @@ body{
 h1{
   font-size: 25px;
   padding-top: 25px;
+  text-align: center;
   font-family: Georgia,Times,serif;
 }
 
@@ -54,7 +55,6 @@ h1{
 }
 #nav li{
   float: left;
-  /*this makes the links at the top horizontal for assingment*/
 }
 
 #nav a:link, #nav a:visited{
@@ -66,7 +66,6 @@ h1{
   text-align: center;
   text-decoration: none;
   padding:2px 0;
-  /* this makes the link have spaces and be individual items not smushed togehter*/
 }
 
 #nav a:hover{
