@@ -6,7 +6,7 @@ body{
   width:100px;
   border-style:none;
   float: left;
-  margin:0 5px 0 0;
+  margin:20px 5px;
 }
 
 h1{
@@ -17,19 +17,19 @@ h1{
 #container{
   background-color: #99FFCC;
 
-  width: 750px;
+  width: 800px;
   margin:0 auto;
 }
 
 #main{
-  background-color: #FFFFCC;
-  width: 500px;
+  /*background-color: #FFFFCC;*/
+  width: 545px;
   float:left;
 }
 
 #sidebar{
-  background-color: #FFCCCC;
-  width: 200px;
+  /*background-color: #FFCCCC;*/
+  width: 100px;
   float: right;
 }
 
@@ -41,4 +41,16 @@ h1{
 #nav li{
   float: left;
   /*this makes the links at the top horizontal for assingment*/
+}
+
+#nav a:link, #nav a:visited{
+  font-weight: bold;
+  color:#fff;
+  background-color: #006666;
+  display:block;
+  width:100px;
+  text-align: center;
+  text-decoration: none;
+  padding:2px 0;
+  /* this makes the link have spaces and be individual items not smushed togehter*/
 }
