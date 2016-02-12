@@ -34,16 +34,15 @@ h1{
   float: right;
 }
 
-#sidebar a:active {
+#sidebar a:link {
+  color: #993333;
+}
+#sidebar a:active, a:visited {
   color: #FF6666;
 }
 
 #sidebar a:hover{
   color: #FF9966;
-}
-
-#sidebar a:link, #sidebar a:visited{
-  color:000000;
 }
 
 #nav{
