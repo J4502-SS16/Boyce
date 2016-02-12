@@ -32,3 +32,13 @@ h1{
   width: 200px;
   float: right;
 }
+
+#nav{
+  list-style-type: none;
+  margin:0;
+  padding:0;
+}
+#nav li{
+  float: left;
+  /*this makes the links at the top horizontal for assingment*/
+}
