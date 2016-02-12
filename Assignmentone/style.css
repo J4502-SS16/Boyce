@@ -9,6 +9,11 @@ body{
   margin:0 5px 0 0;
 }
 
+h1{
+  font-size: 25px;
+  padding-top: 25px;
+}
+
 #container{
   background-color: #99FFCC;
 
