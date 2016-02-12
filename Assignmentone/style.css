@@ -10,20 +10,20 @@ body{
 }
 
 #container{
-  /*background-color: #e37676;*/
+  background-color: #99FFCC;
 
   width: 750px;
   margin:0 auto;
 }
 
 #main{
-  /*background-color: #CCFFFF;*/
+  background-color: #FFFFCC;
   width: 500px;
   float:left;
 }
 
 #sidebar{
-  /*background-color: #ddd;*/
+  background-color: #FFCCCC;
   width: 200px;
   float: right;
 }
